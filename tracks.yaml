@@ -1,4 +1,4 @@
-release_repo_url: git@github.com:revyos-ros/pose_cov_ops-release
+release_repo_url: git@github.com:revyos-ros/pose_cov_ops-release.git
 tracks:
   foxy:
     actions:
